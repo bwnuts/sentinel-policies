@@ -3,5 +3,5 @@ policy "restrict-s3-buckets" {
 }
 
 policy "less-than-100-month" {
-    enforcement_level = "harf-mandatory"
+    enforcement_level = "hard-mandatory"
 }
